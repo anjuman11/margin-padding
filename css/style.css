@@ -1,0 +1,32 @@
+*{
+	margin: 10px 10px;
+	padding:0;
+	background-color: aquamarine;
+}
+h1{
+	background: #101093;
+	color: greenyellow;
+	text-align: center;
+	margin: 5px;
+	padding: 10px;
+
+}
+h2{
+	color: chocolate;
+	background-color: rosybrown;
+	text-align: center;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+}
+p{
+	color: teal;
+	margin: 2px;
+	padding: 10px;
+}
+img{
+	width: 20%;
+	height:400px;
+	margin: 2px;
+	padding: 10px;
+}
